@@ -13,13 +13,13 @@ const CONFIG = {
   // General
   name: 'toby',
   imageBackground: false,
-  openInNewTab: true,
+  openInNewTab: false,
   twelveHourFormat: false,
 
   // Greetings
-  greetingMorning: 'Good morning!',
-  greetingAfternoon: 'Good afternoon,',
-  greetingEvening: 'Good evening,',
+  greetingMorning: 'good morning,',
+  greetingAfternoon: 'good afternoon,',
+  greetingEvening: 'good evening,',
   greetingNight: 'Go to Sleep!',
 
   // Layout
@@ -65,21 +65,21 @@ const CONFIG = {
     },
     {
       id: '3',
-      name: 'Todoist',
-      icon: 'trello',
-      link: 'https://todoist.com',
+      name: 'Anki',
+      icon: 'edit',
+      link: 'https://ankiweb.net/decks/',
     },
     {
       id: '4',
       name: 'Calendar',
       icon: 'calendar',
-      link: 'https://calendar.google.com/calendar/r',
+      link: 'https://calendar.proton.me/',
     },
     {
       id: '5',
-      name: 'Reddit',
-      icon: 'glasses',
-      link: 'https://reddit.com',
+      name: 'Twitter',
+      icon: 'twitter',
+      link: 'https://twitter.com',
     },
     {
       id: '6',
@@ -98,9 +98,9 @@ const CONFIG = {
     },
     {
       id: '2',
-      name: 'twitter',
-      icon: 'twitter',
-      link: 'https://twitter.com/',
+      name: 'reddit',
+      icon: 'reddit',
+      link: 'https://reddit.com/',
     },
     {
       id: '3',
@@ -135,46 +135,46 @@ const CONFIG = {
   // First Links Container
   firstlistsContainer: [
     {
-      icon: 'music',
+      icon: 'radio',
       id: '1',
       links: [
         {
-          name: 'Inspirational',
-          link: 'https://www.youtube.com/watch?v=Wp_VrvtGjqE',
+          name: 'joqr a&g+',
+          link: 'https://www.joqr.co.jp/ag/',
         },
         {
-          name: 'EDM',
-          link: 'https://www.youtube.com/watch?v=36YnV9STBqc',
+          name: 'radiko',
+          link: 'https://radiko.jp/',
         },
         {
-          name: 'Lofi',
-          link: 'https://www.youtube.com/watch?v=5qap5aO4i9A',
+          name: 'niconico',
+          link: 'https://www.nicovideo.jp/',
         },
         {
-          name: 'Rock',
-          link: 'https://www.youtube.com/watch?v=Y_7cXDCNKEk&t=2s',
+          name: 'abema',
+          link: 'https://abema.tv/',
         },
       ],
     },
     {
-      icon: 'coffee',
+      icon: 'network',
       id: '2',
       links: [
         {
-          name: 'Linkedin',
+          name: 'linkedin',
           link: 'https://www.linkedin.com',
         },
         {
-          name: 'Dribbble',
-          link: 'https://www.dribbble.com',
+          name: 'jobsdb',
+          link: 'https://hk.jobsdb.com/hk',
         },
         {
-          name: 'Trello',
-          link: 'https://www.trello.com',
+          name: 'indeed',
+          link: 'https://hk.indeed.com/?r=us',
         },
         {
-          name: 'Slack',
-          link: 'https://www.slack.com',
+          name: 'hkfyg',
+          link: 'https://erecruit.hkfyg.org.hk/',
         },
       ],
     },
