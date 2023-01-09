@@ -65,9 +65,9 @@ const CONFIG = {
     },
     {
       id: '3',
-      name: 'Anki',
+      name: 'notion',
       icon: 'edit',
-      link: 'https://ankiweb.net/decks/',
+      link: 'https://www.notion.so/',
     },
     {
       id: '4',
@@ -110,15 +110,15 @@ const CONFIG = {
     },
     {
       id: '4',
-      name: 'Amazon',
+      name: 'amazon',
       icon: 'shopping-bag',
-      link: 'https://amazon.com/',
+      link: 'https://amazon.jp/',
     },
     {
       id: '5',
-      name: 'Hashnode',
+      name: 'notion',
       icon: 'pen-tool',
-      link: 'https://hashnode.com/',
+      link: 'https://www.notion.so/',
     },
     {
       id: '6',
@@ -157,24 +157,24 @@ const CONFIG = {
       ],
     },
     {
-      icon: 'network',
+      icon: 'film',
       id: '2',
       links: [
         {
-          name: 'linkedin',
-          link: 'https://www.linkedin.com',
+          name: 'baha',
+          link: 'https://ani.gamer.com.tw/',
         },
         {
-          name: 'jobsdb',
-          link: 'https://hk.jobsdb.com/hk',
+          name: 'bilibili',
+          link: 'https://www.bilibili.com/',
         },
         {
-          name: 'indeed',
-          link: 'https://hk.indeed.com/?r=us',
+          name: 'netflix',
+          link: 'https://www.netflix.com/',
         },
         {
-          name: 'hkfyg',
-          link: 'https://erecruit.hkfyg.org.hk/',
+          name: 'iqiyi',
+          link: 'https://www.iq.com/anime?lang=zh_tw',
         },
       ],
     },
