@@ -53,9 +53,9 @@ const CONFIG = {
   firstButtonsContainer: [
     {
       id: '1',
-      name: 'Github',
-      icon: 'github',
-      link: 'https://github.com/',
+      name: 'amazon',
+      icon: 'shopping-bag',
+      link: 'https://amazon.jp/',
     },
     {
       id: '2',
@@ -135,24 +135,24 @@ const CONFIG = {
   // First Links Container
   firstlistsContainer: [
     {
-      icon: 'radio',
+      icon: 'school',
       id: '1',
       links: [
         {
-          name: 'joqr a&g+',
-          link: 'https://www.joqr.co.jp/ag/',
+          name: 'teams',
+          link: 'https://https://teams.microsoft.com/',
         },
         {
-          name: 'radiko',
-          link: 'https://radiko.jp/',
+          name: 'outlook',
+          link: 'https://outlook.office.com/mail/',
         },
         {
-          name: 'niconico',
-          link: 'https://www.nicovideo.jp/',
+          name: 'onedrive',
+          link: 'https://onedrive.live.com/',
         },
         {
-          name: 'abema',
-          link: 'https://abema.tv/',
+          name: 'chatgpt',
+          link: 'https://chat.openai.com/',
         },
       ],
     },
@@ -165,16 +165,16 @@ const CONFIG = {
           link: 'https://ani.gamer.com.tw/',
         },
         {
-          name: 'bilibili',
-          link: 'https://www.bilibili.com/',
-        },
-        {
           name: 'netflix',
           link: 'https://www.netflix.com/',
         },
         {
-          name: 'iqiyi',
-          link: 'https://www.iq.com/anime?lang=zh_tw',
+          name: 'anilist',
+          link: 'https://anilist.co/',
+        },
+        {
+          name: 'myanimelist',
+          link: 'https://myanimelist.net/',
         },
       ],
     },
